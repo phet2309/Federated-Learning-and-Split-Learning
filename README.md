@@ -48,4 +48,4 @@ Accuracy
 
 ![Turn Around Time](https://github.com/phet2309/Federated-Learning-and-Split-Learning/blob/main/Experiment_Results/TAT.jpeg)
 
-Turn Around Time for Execution
+Turnaround Time for Execution
