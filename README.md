@@ -1,9 +1,9 @@
 # Federated-Learning-and-Split-Learning
-This project is comparison between Federated Learning and Split Learning for credit card frsud detection dataset.
+This project is comparison between Federated Learning and Split Learning for credit card fraud detection dataset.
 
 Dataset link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-This dataset has been processed, split into train and test, and it was used for training, testing, and comparison.
+This dataset has been processed, split into train and test, and it was used for training, testing, and comparison. Smote1.ipynb is to generate somte file for the dataset.
 
 ### <ins>**Required Files:**</ins>
 ##### Download dataset from below links
@@ -16,7 +16,7 @@ This dataset has been processed, split into train and test, and it was used for 
 ### <ins>**How to perform Experiment**</ins>
 **Step 1:** Download the dataset from the above links.
 
-**Step 2:** Run all the cells above "Federated Learning" section.
+**Step 2:** Open Fed_Split_Learning.ipynb. Run all the cells above "Federated Learning" section.
 
 **Step 3:** In the Federated Learning section, chnage the value of "num_clients" variable, which decides the dataset split size. It should be the number that can divide the dataset length. (ex. 32,24,16,12)
 
